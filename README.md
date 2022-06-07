@@ -9,7 +9,8 @@ Use a secondary laptop as a second screen for your primary PC/laptop (like desks
 1. Windows 10
 2. Powershell Core
 3. Amyuni usbmmidd_v2
-4. FFmpeg
+4. OpenSSH Client
+5. FFmpeg
 
 ### Secondary Laptop
 
